@@ -1,0 +1,12 @@
+{
+    "name": "nkp-sklizen",
+    "author": "Kovačević Marko",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "puppeteer": "^7.0.1"
+    },
+    "scripts": {
+        "start": "node ./src/index.js"
+    }
+}
